@@ -1,0 +1,14 @@
+[
+	{
+	"key" : "HRB",
+	"name" ; "Hospital Regional de Barrerinhas",
+	"latitude" : -2.7718,
+	"longitude" : -42.8388
+	},
+	{
+	"key" : "NINAR",
+	"name" ; "Casa de Apoio Ninar",
+	"latitude" : -2.4876,
+	"longitude" : -44.2968
+	}
+]
