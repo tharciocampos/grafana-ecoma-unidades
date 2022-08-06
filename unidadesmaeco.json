@@ -118,5 +118,11 @@
 	"name" : "Casa de Apoio Ninar",
 	"latitude" : -2.4874498423889015,
 	"longitude" : -44.296822416913855
+	},
+	{
+	"key" : "CAXIAS",
+	"name" : "Hospital Regional de Caxias",
+	"latitude" : -4.879385502504689,
+	"longitude" : -43.3398439099574
 	}
 ]
